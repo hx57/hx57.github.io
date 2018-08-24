@@ -182,5 +182,49 @@ order: 1
 </div>
 </aside>
   
+
+
+<aside class="about related mt4 mb4" role="complementary">
+<div class="author mt4">
+  <hy-img  
+    src="/assets/img/brian.jpg"
+    class="avatar"
+    alt="2infiniti"
+    srcset="/assets/img/brian.jpg, /assets/img/AT.jpg" 
+    root-margin="512px"
+  >
+    <span class="loading" slot="loading" hidden>
+      <span class="icon-cog"></span>
+    </span>
+  </hy-img>
+  
+  <h2  class="page-title hr">AT</h2>
+
+<p>In his daily job, AT works for a leading financial solutions provider, focused on managing ATM and POS fleets, he also is a cloud computing professional and without a doubt, a believer of ICON's mission and vision. Beside managing the Arabic channel for hx57, AT enjoys spicy food and power lifting.</p>
+
+<div class="sidebar-social">
+<ul>
+  <li>
+    <a href="#" title="Telegram" class="no-mark-external" target="_blank">
+      <span class="icon-telegram"></span>
+      <span class="sr-only">Telegram</span>
+    </a>
+  </li>
+  <li>
+    <a href="https://twitter.com/mota553 " title="Twitter" class="no-mark-external" target="_blank">
+      <span class="icon-twitter"></span>
+      <span class="sr-only">Twitter</span>
+    </a>
+  </li> 
+  <li>
+    <a href="mailto:alaa_3001@hotmail.com" title="Email" class="no-mark-external" target="_blank">
+      <span class="icon-mail"></span>
+      <span class="sr-only">Email</span>
+    </a>
+  </li>   
+</ul>
+</div>
+</div>
+</aside>
   
 
