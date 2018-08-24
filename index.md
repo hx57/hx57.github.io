@@ -4,23 +4,17 @@ image: /assets/img/hydejack-8.png
 hide_description: true
 ---
 
-# Thank You
-Thank you for buying the PRO version of Hydejack! 🎉
+# Current Community Progress
 
-More than one year ago I was looking for a blogging platform but couldn't find it:
-One that would let me write posts in markdown, with my own editor, one that didn't look awful buy modern design standards, and one that felt snappy on a mobile phone.
-That and more is now Hydejack. I hope you enjoy it [as much as I do](https://qwtel.com/).
+## ICON Research Week
+The proposal is up: [https://github.com/hx57/ICIPs/blob/master/ICIPS/icip-3.md](https://github.com/hx57/ICIPs/blob/master/ICIPS/icip-3.md) If you're interesting in taking part please read through the proposal and see how to get started
 
-## First Steps
-Please start by reading the [Documentation]{:.heading.flip-title}.
-Specifically, the chapters below should be relevant now:
+## Twitter
+If you tweet about ICON or know anyone who tweets about ICON, please help [fill this sheet](https://docs.google.com/document/d/1VmrG0QtAd_Vb8L6fwXOYAQWSIlm97yPNoPutrSHCrm8/edit)
 
-* [Install]{:.heading.flip-title} --- How to install and run Hydejack.
-* [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
-* [Config]{:.heading.flip-title} --- Once Jekyll is running you can start with basic configuration.
-{:.related-posts.faded}
 
-[documentation]: docs/README.md
-[install]: docs/install.md
-[upgrade]: docs/upgrade.md
-[config]: docs/config.md
+## Translation
+Shout out to the community: If you can translate to Japanese or Korean, please get in touch with me! [@msg2infiniti](https://t.me/msg2infiniti)
+
+## About
+ICON Community Alliance (ICA) was formed to harness collective intelligence from the ICON community, focusing on education, marketing, public relations, local representation, community outreach, and other business development opportunities. ICA is run by a group (HX57) of ICON enthusiasts, offering to promote ICON and help its adoption, on a voluntary basis. The alliance's ultimate goal will align with ICON foundation's vision, to hyperconnect the world.
