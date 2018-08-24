@@ -4,7 +4,7 @@ title: ICON Crypto Twitter
 description: >
   ICON opinion leaders to follow on Twitter
 menu: true
-order: 3
+order: 4
 ---
 ### ICON Team
 

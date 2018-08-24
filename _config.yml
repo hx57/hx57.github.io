@@ -101,10 +101,15 @@ defaults:
       menu: true
       order: 2
   - scope:
-      path: ct.md
+      path: pb.md
     values:
       menu: true
       order: 3
+  - scope:
+      path: ct.md
+    values:
+      menu: true
+      order: 4
 
 
 # 3rd Party Integrations
