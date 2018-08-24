@@ -13,7 +13,7 @@ order: 1
     src="/assets/img/2infiniti100.png"
     class="avatar"
     alt="2infiniti"
-    srcset="/assets/img/2infiniti100.png, /assets/img/2infiniti100.png" 
+    srcset="/assets/img/2infiniti100.png, /assets/img/2infiniti208.jpg" 
     root-margin="512px"
   >
     <span class="loading" slot="loading" hidden>
