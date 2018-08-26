@@ -10,10 +10,10 @@ order: 1
 <aside class="about related mt4 mb4" role="complementary">
 <div class="author mt4">
   <hy-img  
-    src="/assets/img/2infiniti100.png"
+    src="/assets/img/2infiniti208.png"
     class="avatar"
     alt="2infiniti"
-    srcset="/assets/img/2infiniti100.png, /assets/img/2infiniti208.jpg" 
+    srcset="/assets/img/2infiniti208.png, /assets/img/2infiniti208.jpg" 
     root-margin="512px"
   >
     <span class="loading" slot="loading" hidden>
@@ -55,7 +55,7 @@ order: 1
   <hy-img  
     src="/assets/img/brian.jpg"
     class="avatar"
-    alt="2infiniti"
+    alt="Brian"
     srcset="/assets/img/brian.jpg, /assets/img/brian.jpg" 
     root-margin="512px"
   >
@@ -97,10 +97,10 @@ order: 1
 <aside class="about related mt4 mb4" role="complementary">
 <div class="author mt4">
   <hy-img  
-    src="/assets/img/brian.jpg"
+    src="/assets/img/ruben.jpg"
     class="avatar"
-    alt="2infiniti"
-    srcset="/assets/img/brian.jpg, /assets/img/ruben.jpg" 
+    alt="Ruben"
+    srcset="/assets/img/ruben.jpg, /assets/img/ruben.jpg" 
     root-margin="512px"
   >
     <span class="loading" slot="loading" hidden>
@@ -142,10 +142,10 @@ order: 1
 <aside class="about related mt4 mb4" role="complementary">
 <div class="author mt4">
   <hy-img  
-    src="/assets/img/brian.jpg"
+    src="/assets/img/jonathan.jpg"
     class="avatar"
-    alt="2infiniti"
-    srcset="/assets/img/brian.jpg, /assets/img/jonathan.jpg" 
+    alt="Jonathan"
+    srcset="/assets/img/jonathan.jpg, /assets/img/jonathan.jpg" 
     root-margin="512px"
   >
     <span class="loading" slot="loading" hidden>
@@ -187,10 +187,10 @@ order: 1
 <aside class="about related mt4 mb4" role="complementary">
 <div class="author mt4">
   <hy-img  
-    src="/assets/img/brian.jpg"
+    src="/assets/img/AT.jpg"
     class="avatar"
-    alt="2infiniti"
-    srcset="/assets/img/brian.jpg, /assets/img/AT.jpg" 
+    alt="AT"
+    srcset="/assets/img/AT.jpg, /assets/img/AT.jpg" 
     root-margin="512px"
   >
     <span class="loading" slot="loading" hidden>
@@ -227,4 +227,55 @@ order: 1
 </div>
 </aside>
   
+
+
+<aside class="about related mt4 mb4" role="complementary">
+<div class="author mt4">
+  <hy-img  
+    src="/assets/img/rodney.jpg"
+    class="avatar"
+    alt="Rodney (One2two1)"
+    srcset="/assets/img/rodney.jpg, /assets/img/rodney.jpg" 
+    root-margin="512px"
+  >
+    <span class="loading" slot="loading" hidden>
+      <span class="icon-cog"></span>
+    </span>
+  </hy-img>
+  
+  <h2  class="page-title hr">Rodney (One2two1)</h2>
+
+<p>Rodney (One2two1) helps grow hx57 by organizing research and content creation. He works in blockchain Venture Capital & Acceleration in Toronto</p>
+
+<div class="sidebar-social">
+<ul>
+  <li>
+    <a href="https://t.me/one221" title="Telegram" class="no-mark-external" target="_blank">
+      <span class="icon-telegram"></span>
+      <span class="sr-only">Telegram</span>
+    </a>
+  </li>
+  <li>
+    <a href="https://twitter.com/One2two1_" title="Twitter" class="no-mark-external" target="_blank">
+      <span class="icon-twitter"></span>
+      <span class="sr-only">Twitter</span>
+    </a>
+  </li> 
+  <li>
+    <a href="#" title="Email" class="no-mark-external" target="_blank">
+      <span class="icon-mail"></span>
+      <span class="sr-only">Email</span>
+    </a>
+  </li>   
+</ul>
+</div>
+</div>
+</aside>
+
+
+
+
+
+
+
 
