@@ -13,3 +13,6 @@ order: 5
 ## 한국어
 전보：[ICON Korea](https://t.me/iconkorea){:target="_blank"}
 
+## Română
+
+telegramă：[ICXRO](https://t.me/iconro){:target="_blank"}
