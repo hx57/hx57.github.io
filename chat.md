@@ -16,3 +16,15 @@ order: 5
 ## Română
 
 Telegram：[ICXRO](https://t.me/iconro){:target="_blank"}
+
+## Español
+
+Telegram：[ICXRO](https://t.me/ICON_Spanish){:target="_blank"}
+
+## français
+
+Telegram：[ICXRO](https://t.me/hx57french){:target="_blank"}
+
+
+
+
