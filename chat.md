@@ -19,11 +19,11 @@ Telegram：[ICXRO](https://t.me/iconro){:target="_blank"}
 
 ## Español
 
-Telegram：[ICXRO](https://t.me/ICON_Spanish){:target="_blank"}
+Telegram：[ICON_Spanish](https://t.me/ICON_Spanish){:target="_blank"}
 
 ## français
 
-Telegram：[ICXRO](https://t.me/hx57french){:target="_blank"}
+Telegram：<a href="https://t.me/hx57french" target="_blank">[French] ICON Community Alliance HX57</a>
 
 
 
