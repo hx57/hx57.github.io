@@ -15,4 +15,4 @@ order: 5
 
 ## Română
 
-telegramă：[ICXRO](https://t.me/iconro){:target="_blank"}
+Telegram：[ICXRO](https://t.me/iconro){:target="_blank"}
