@@ -110,6 +110,11 @@ defaults:
     values:
       menu: true
       order: 4
+  - scope:
+      path: chat.md
+    values:
+      menu: true
+      order: 5
 
 
 # 3rd Party Integrations
