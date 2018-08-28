@@ -11,7 +11,9 @@ order: 5
 电报：[ICON 中文社群](https://t.me/hx57chinese){:target="_blank"}
 
 ## 한국어
-전보：[ICON Korea](https://t.me/iconkorea){:target="_blank"}
+Telegram：[ICON Korea](https://t.me/iconkorea){:target="_blank"}
+
+Kakao: [[공식] ICON 커뮤니티](https://open.kakao.com/o/gMAFhdS){:target="_blank"}
 
 ## Română
 
