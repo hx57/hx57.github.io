@@ -22,7 +22,7 @@ order: 2
 [ICON Community Alliance - Tiếng Việt](https://medium.com/hx57vietnamese){:target="_blank"}
 
 
-[ICON Community Alliance - Deutsche](https://medium.com/hx57german){:target="_blank"}
+[ICON Community Alliance - Deutsch](https://medium.com/hx57german){:target="_blank"}
 
 
 <p class="message"> ICON Research Week </p>
