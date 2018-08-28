@@ -22,6 +22,9 @@ order: 2
 [ICON Community Alliance - Tiếng Việt](https://medium.com/hx57vietnamese){:target="_blank"}
 
 
+[ICON Community Alliance - Deutsche](https://medium.com/hx57german){:target="_blank"}
+
+
 <p class="message"> ICON Research Week </p>
 
 [A Blockchain for Enterprises: ICON PoS Token Economics](https://medium.com/@hellopanel/a-blockchain-for-enterprises-icon-pos-token-economics-e7e94384a90b){:target="_blank"}
