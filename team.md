@@ -273,6 +273,49 @@ order: 1
 </aside>
 
 
+<aside class="about related mt4 mb4" role="complementary">
+<div class="author mt4">
+  <hy-img  
+    src="/assets/img/archer.jpg"
+    class="avatar"
+    alt="archer"
+    srcset="/assets/img/archer.jpg, /assets/img/archer.jpg" 
+    root-margin="512px"
+  >
+    <span class="loading" slot="loading" hidden>
+      <span class="icon-cog"></span>
+    </span>
+  </hy-img>
+  
+  <h2  class="page-title hr">Daniel (Archer)</h2>
+
+<p>Daniel (Archer) is currently a student living in Vienna, with a passion for blockchain, especially for ICON. He has been a supporter of ICON since the ICO and is now translating ICON related articles to german to further support the ICON Project.</p>
+
+<div class="sidebar-social">
+<ul>
+  <li>
+    <a href="https://t.me/OG_Archer" title="Telegram" class="no-mark-external" target="_blank">
+      <span class="icon-telegram"></span>
+      <span class="sr-only">Telegram</span>
+    </a>
+  </li>
+  <li>
+    <a href="https://twitter.com/cryptarcher" title="Twitter" class="no-mark-external" target="_blank">
+      <span class="icon-twitter"></span>
+      <span class="sr-only">Twitter</span>
+    </a>
+  </li> 
+  <li>
+    <a href="mailto:daniel.nikbakht1@gmail.com" title="Email" class="no-mark-external" target="_blank">
+      <span class="icon-mail"></span>
+      <span class="sr-only">Email</span>
+    </a>
+  </li>   
+</ul>
+</div>
+</div>
+</aside>
+
 
 
 
