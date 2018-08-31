@@ -17,6 +17,7 @@ order: 4
 ### Frequent ICON thoughts
 
 *   2infiniti: [@2infiniti](https://www.twitter.com/2infiniti){:target="_blank"} 
+*   The Iconist: [@TheIconistNews](https://twitter.com/TheIconistNews){:target="_blank"} 
 *   Deblock: [@Deblockvc](https://www.twitter.com/Deblockvc){:target="_blank"}
 *   Markus: [@markusjayvc](https://www.twitter.com/markusjayvc){:target="_blank"}
 *   Brian Li: [@DecryptoBL](https://www.twitter.com/DecryptoBL){:target="_blank"}
