@@ -345,7 +345,7 @@ order: 1
     </a>
   </li>
   <li>
-    <a href="https://twitter.com/Lucky8Steven" title="Twitter" class="no-mark-external" target="_blank">
+    <a href="https://twitter.com/denis_szuecs" title="Twitter" class="no-mark-external" target="_blank">
       <span class="icon-twitter"></span>
       <span class="sr-only">Twitter</span>
     </a>
