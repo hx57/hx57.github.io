@@ -318,6 +318,50 @@ order: 1
 
 
 
+<aside class="about related mt4 mb4" role="complementary">
+<div class="author mt4">
+  <hy-img  
+    src="/assets/img/denis.jpg"
+    class="avatar"
+    alt="denis"
+    srcset="/assets/img/denis.jpg, /assets/img/denis.jpg" 
+    root-margin="512px"
+  >
+    <span class="loading" slot="loading" hidden>
+      <span class="icon-cog"></span>
+    </span>
+  </hy-img>
+  
+  <h2  class="page-title hr">Denis Szuecs (Steven)</h2>
+
+<p>Blockchain enthusiast since the early days, ran multiple mining pools, working on german translations for hx57, enjoys drinking, netflix and molecular gastronomy.</p>
+
+<div class="sidebar-social">
+<ul>
+  <li>
+    <a href="https://t.me/dszucs" title="Telegram" class="no-mark-external" target="_blank">
+      <span class="icon-telegram"></span>
+      <span class="sr-only">Telegram</span>
+    </a>
+  </li>
+  <li>
+    <a href="https://twitter.com/Lucky8Steven" title="Twitter" class="no-mark-external" target="_blank">
+      <span class="icon-twitter"></span>
+      <span class="sr-only">Twitter</span>
+    </a>
+  </li> 
+  <li>
+    <a href="mailto:denis.szuecs@gmail.com" title="Email" class="no-mark-external" target="_blank">
+      <span class="icon-mail"></span>
+      <span class="sr-only">Email</span>
+    </a>
+  </li>   
+</ul>
+</div>
+</div>
+</aside>
+
+
 
 
 
