@@ -17,7 +17,7 @@ Kakao: [[공식] ICON 커뮤니티](https://open.kakao.com/o/gMAFhdS){:target="_
 
 ## Română
 
-Telegram：[ICXRO](https://t.me/iconro){:target="_blank"}
+Telegram：[ICXRO](https://t.me/icxro){:target="_blank"}
 
 ## Español
 
