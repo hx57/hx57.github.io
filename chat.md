@@ -7,6 +7,18 @@ menu: true
 order: 5
 ---
 
+## ICON Devs Channel
+Telegram: https://t.me/icondevs
+
+## Deblock ICON Accelerator
+Telegram: https://t.me/deblockgroup
+
+## ICON Investor
+Telegram: https://t.me/iconinvestor
+
+## ICON DAPPs
+Telegram: https://t.me/icondapps
+
 ## 中文
 电报：[ICON 中文社群](https://t.me/hx57chinese){:target="_blank"}
 
