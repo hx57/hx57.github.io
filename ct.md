@@ -30,6 +30,7 @@ order: 4
 *   MINEABLE: [@mineable_](https://www.twitter.com/mineable_){:target="_blank"}
 *   panel: [@hellopanel_](https://www.twitter.com/hellopanel_){:target="_blank"}
 *   Crypto Mikey: [@CryptoCX1](https://www.twitter.com/CryptoCX1){:target="_blank"}
+*   rodney (one2two1): [@ne2two1_](https://www.twitter.com/ne2two1_){:target="_blank"}
 
 
 ### Occasional ICON thoughts
