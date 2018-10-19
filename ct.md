@@ -17,6 +17,7 @@ order: 4
 ### Frequent ICON thoughts
 
 *   2infiniti: [@2infiniti](https://www.twitter.com/2infiniti){:target="_blank"} 
+*   Spl3en: [@Spl3en_ICON](https://www.twitter.com/Spl3en_ICON){:target="_blank"}
 *   The Iconist: [@TheIconistNews](https://twitter.com/TheIconistNews){:target="_blank"} 
 *   Deblock: [@Deblockvc](https://www.twitter.com/Deblockvc){:target="_blank"}
 *   Markus: [@markusjayvc](https://www.twitter.com/markusjayvc){:target="_blank"}
@@ -29,6 +30,7 @@ order: 4
 *   MINEABLE: [@mineable_](https://www.twitter.com/mineable_){:target="_blank"}
 *   panel: [@hellopanel_](https://www.twitter.com/hellopanel_){:target="_blank"}
 *   Crypto Mikey: [@CryptoCX1](https://www.twitter.com/CryptoCX1){:target="_blank"}
+
 
 ### Occasional ICON thoughts
 
