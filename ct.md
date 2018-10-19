@@ -44,7 +44,6 @@ order: 4
 *   Decentralized TV: [@DecentralizedTV](https://www.twitter.com/DecentralizedTV){:target="_blank"}
 *   Gav-N: [@CryptoGav9](https://www.twitter.com/CryptoGav9){:target="_blank"}
 *   Nakamoto: [@ic_nakamoto](https://www.twitter.com/ic_nakamoto){:target="_blank"}
-*   one2two1: <a href="https://www.twitter.com/One2two1_" target="_blank">@One2two1_</a>
 *   WolfofCrypto: [@bullishgentlemn](https://www.twitter.com/bullishgentlemn){:target="_blank"}
 *   The Coin Lawyer: [@TheCoinLawyer](https://www.twitter.com/TheCoinLawyer){:target="_blank"}
 *   CRYPTO ROB (Not giving away ETH): [@MasterShill](https://www.twitter.com/MasterShill){:target="_blank"}
