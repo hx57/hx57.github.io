@@ -32,6 +32,7 @@ order: 4
 *   Crypto Mikey: [@CryptoCX1](https://www.twitter.com/CryptoCX1){:target="_blank"}
 *   rodney (one2two1): <a href="https://www.twitter.com/One2two1_" target="_blank">@One2two1_</a>
 *   CryptoChaine  🚀 : [@CryptoChaine](https://www.twitter.com/CryptoChaine){:target="_blank"}
+*   ICON Republic: [@IconRepublic](https://www.twitter.com/IconRepublic){:target="_blank"} 
 
 
 ### Occasional ICON thoughts
