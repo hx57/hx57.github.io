@@ -6,18 +6,20 @@ description: >
 menu: true
 order: 5
 ---
+## ICON Community Alliance HX57
+Telegram: [https://t.me/iconhx57](https://t.me/iconhx57){:target="_blank"}
 
 ## ICON Devs Channel
-Telegram: https://t.me/icondevs
-
-## Deblock ICON Accelerator
-Telegram: https://t.me/deblockgroup
-
-## ICON Investor
-Telegram: https://t.me/iconinvestor
+Telegram: [https://t.me/icondevs](https://t.me/icondevs){:target="_blank"}
 
 ## ICON DAPPs
-Telegram: https://t.me/icondapps
+Telegram: [https://t.me/icondapps](https://t.me/icondapps){:target="_blank"}
+
+## Deblock ICON Accelerator
+Telegram: [https://t.me/deblockgroup](https://t.me/deblockgroup){:target="_blank"}
+
+## ICON Investor
+Telegram: [https://t.me/iconinvestor](https://t.me/iconinvestor){:target="_blank"}
 
 ## 中文
 电报：[ICON 中文社群](https://t.me/hx57chinese){:target="_blank"}
