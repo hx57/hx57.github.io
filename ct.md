@@ -55,4 +55,4 @@ order: 4
 
 <br /><br />
 
-*If you want to be included in this list, please make a pull request, or fill this [google document](https://docs.google.com/document/d/1VmrG0QtAd_Vb8L6fwXOYAQWSIlm97yPNoPutrSHCrm8/edit?usp=sharing)
+*If you want to be included in this list, please make a [pull request](https://github.com/hx57/hx57.github.io/pulls), or fill this [google document](https://docs.google.com/document/d/1VmrG0QtAd_Vb8L6fwXOYAQWSIlm97yPNoPutrSHCrm8/edit?usp=sharing)
