@@ -53,6 +53,7 @@ order: 4
 *   Joseph Young: [@iamjosephyoung](https://www.twitter.com/iamjosephyoung){:target="_blank"}
 *   Torque: [@Torque_Crypto](https://www.twitter.com/Torque_Crypto){:target="_blank"}
 *   SpecR: [@SpecRationality](https://www.twitter.com/SpecRationality){:target="_blank"}
+*   CryptoChaine [@CryptoChaine](https://twitter.com/CryptoChaine){:target="_blank"}
 
 
 <br /><br />
